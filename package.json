@@ -1,0 +1,20 @@
+{
+  "name": "falling-cubes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ammojs-typed": "^1.0.6",
+    "babylonjs": "^7.7.0",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
